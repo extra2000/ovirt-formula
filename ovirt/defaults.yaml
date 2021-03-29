@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+# vim: ft=yaml
+
+ovirt:
+  hostuser:
+    name: vagrant
+    group: vagrant

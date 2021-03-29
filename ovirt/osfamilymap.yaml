@@ -1,0 +1,16 @@
+# -*- coding: utf-8 -*-
+# vim: ft=yaml
+
+RedHat:
+  ovirt_repo:
+    name: ovirt-release44
+    package: https://resources.ovirt.org/pub/yum-repo/ovirt-release44.rpm
+  cockpit_packages:
+    - cockpit
+    - cockpit-ovirt-dashboard
+
+Debian: {}
+Suse: {}
+Gentoo: {}
+Arch: {}
+Alpine: {}

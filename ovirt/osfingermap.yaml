@@ -1,0 +1,7 @@
+# -*- coding: utf-8 -*-
+# vim: ft=yaml
+
+CentOS Linux-7:
+  ovirt_repo:
+    name: ovirt-release43
+    package: https://resources.ovirt.org/pub/yum-repo/ovirt-release43.rpm
